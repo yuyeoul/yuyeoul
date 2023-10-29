@@ -1,6 +1,6 @@
 <div align=center>
   
-## Introduction :raised_hands:
+## :raised_hands: Introduction 
   1인분은 하는 개발자가 되기 위해 노력하고 성장하고 있습니다.<br>
   
 ## :hammer: Skills 
